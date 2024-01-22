@@ -1,8 +1,10 @@
 package goit16java;
 
 public class User {
-    private  String firstName;
+    private String firstName;
     private String lastName;
+
+
 
     public User(String firstName, String lastName) {
         this.firstName = firstName;

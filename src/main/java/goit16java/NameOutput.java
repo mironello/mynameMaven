@@ -9,7 +9,8 @@ import java.util.Map;
 public class NameOutput {
     public NameOutput() {
     }
-    public String output(){
+
+    public String output() {
         User user = new User("Olexandr", "Myronenko");
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(user);

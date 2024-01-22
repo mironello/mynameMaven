@@ -5,7 +5,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="myname" />
+      <element id="module-output" name="mynameMaven" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.5/asm-9.5.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/iq80/snappy/snappy/0.4/snappy-0.4.jar" path-in-jar="/" />
