@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e09f9c-86f9-44ee-9b31-41aa72ea5ea2" name="Changes" comment="add dir idea to .gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="67e09f9c-86f9-44ee-9b31-41aa72ea5ea2" name="Changes" comment="add  idea to .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <workItem from="1703771355677" duration="3365000" />
       <workItem from="1703779722099" duration="1875000" />
       <workItem from="1703788934590" duration="3350000" />
-      <workItem from="1705954611431" duration="1432000" />
+      <workItem from="1705954611431" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="pom plugins commit">
       <created>1703778032554</created>
@@ -117,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705957645576</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add dir idea to .gitignore">
+      <created>1705958045368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705958045368</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add  idea to .gitignore">
+      <created>1705958433199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705958433199</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +150,7 @@
     <MESSAGE value="pom plugins commit" />
     <MESSAGE value="pom &lt;finalName&gt; commit" />
     <MESSAGE value="add dir idea to .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dir idea to .gitignore" />
+    <MESSAGE value="add  idea to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  idea to .gitignore" />
   </component>
 </project>
